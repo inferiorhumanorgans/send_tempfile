@@ -1,0 +1,3 @@
+= SendTempfile
+
+This project rocks and uses LGPLv3.
